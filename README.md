@@ -71,14 +71,13 @@ They are not used as input features for model training.
 ---
 
 ## 📂 Project Structure
-Student_performance/
-├── app.py # Streamlit application (UI + prediction)
-├── model.py # Machine Learning model training & evaluation
-├── data.csv # Dataset
-└── README.md # Project documentation
+Student_performance
 
-yaml
-Copy code
+├── app.py 
+├── model.py
+├── data.csv
+└── README.md 
+
 
 ---
 
