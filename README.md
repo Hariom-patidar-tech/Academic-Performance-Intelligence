@@ -71,3 +71,62 @@ They are not used as input features for model training.
 ---
 
 ## 📂 Project Structure
+Student_performance/
+├── app.py # Streamlit application (UI + prediction)
+├── model.py # Machine Learning model training & evaluation
+├── data.csv # Dataset
+└── README.md # Project documentation
+
+yaml
+Copy code
+
+---
+
+## ▶️ How to Run the Project Locally
+
+### Step 1: Clone the Repository
+
+git clone https://github.com/YOUR_USERNAME/Student-Performance-Prediction.git
+Step 2: Navigate to Project Directory
+
+cd Student_performance
+Step 3: Install Required Libraries
+
+pip install pandas numpy scikit-learn streamlit
+Step 4: Run the Streamlit Application
+
+python -m streamlit run app.py
+Step 5: Open in Browser
+
+http://localhost:8501
+
+
+📚 Learning Outcomes
+Practical understanding of data preprocessing techniques
+
+Hands-on experience with machine learning models
+
+Experience in deploying ML models using Streamlit
+
+Designing real-world style dashboards
+
+End-to-end AI/ML project development
+
+🚀 Future Enhancements
+User authentication (Admin / Student view)
+
+Interactive data visualizations (charts & graphs)
+
+PDF report generation
+
+Database integration for large-scale data
+
+Model optimization and comparison
+
+👨‍💻 Author
+Hariom Patidar
+AI / ML & Data Science Learner
+
+I am still learning and continuously improving my skills.
+
+
