@@ -86,7 +86,7 @@ Copy code
 
 ### Step 1: Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/Student-Performance-Prediction.git
+git clone (https://github.com/Hariom-patidar-tech/Academic-Performance-Intelligence)
 Step 2: Navigate to Project Directory
 
 cd Student_performance
